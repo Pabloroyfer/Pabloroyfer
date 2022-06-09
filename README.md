@@ -2,7 +2,6 @@
 
 ```javascript
 const Pab = {
-  pronouns: "he" | "him",
   code: [Javascript, typescript, HTML, CSS, Python, Java, PHP,],
   tools: [React, Django, Flask, Styled-Components, Symfony],
 }
