@@ -15,6 +15,7 @@ const Pab = {
 
 You can find me :earth_africa:
 - [Instagram](https://www.instagram.com/pabloroyfer/)
+- [Linkedin]
 
 <!--
 **Pabloroyfer/Pabloroyfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
