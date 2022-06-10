@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/71952591/172893693-ba6d3dd9-7612-4050-816f-3a65c110b9b3.jpg" align='right' margin="300" alt="imagen perfil (ilustración)"></img>
 ### Hi, I'm Pablo :relaxed: 
 
 ```javascript
@@ -7,6 +6,27 @@ const Pab = {
   tools: [React, Django, Flask, Styled-Components, Symfony],
 }
 ```
+<img src="https://user-images.githubusercontent.com/71952591/172893693-ba6d3dd9-7612-4050-816f-3a65c110b9b3.jpg" align='right' height="370" alt="imagen perfil (ilustración)"></img>
+
+#### I love using vanilla CSS
+```CSS
+*{
+  display: boy;
+  background: curiosity
+}
+```
+```CSS
+body{
+    display: grid;
+    min-height: 100%;
+    grid-template:
+    "flexibility         creativity " 50px
+    "constant-learning   patience"    auto
+    "positivity          organized"   50px
+}
+```
+
+
 
 You can find me :earth_africa:
 - [Instagram](https://www.instagram.com/pabloroyfer/)
@@ -26,3 +46,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
