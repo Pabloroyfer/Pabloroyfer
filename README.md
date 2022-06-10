@@ -20,12 +20,15 @@ body{
     display: grid;
     min-height: 100%;
     grid-template:
-    "flexibility         creativity " 50px
+    "creativity          flexibility " 50px
     "constant-learning   patience"    auto
-    "positivity          organized"   50px
+    "positivity          organized"   50px /
+    1fr                  100px
 }
 ```
-
+```php
+  
+```
 
 
 You can find me :earth_africa:
