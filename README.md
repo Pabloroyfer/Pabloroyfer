@@ -3,7 +3,7 @@
 ```javascript
 const Pab = {
   code: [Javascript, typescript, HTML, CSS, Python, Java, PHP,],
-  tools: [React, Django, Flask, Styled-Components, Symfony],
+  tools: [React, Django, Styled-Components, Symfony],
 }
 ```
 
