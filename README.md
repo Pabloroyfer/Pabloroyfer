@@ -29,7 +29,7 @@ body{
 
 You can find me :earth_africa:
 - [Instagram](https://www.instagram.com/pabloroyfer/)
-- [Linkedin]
+- [Linkedin](www.linkedin.com/in/pab-dev)
 
 <!--<em><b>I love connecting with different people</b> 🙂 </em> -->
 
