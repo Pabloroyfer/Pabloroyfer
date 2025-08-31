@@ -2,14 +2,17 @@
 
 ```javascript
 const Pab = {
-  code: [Javascript, HTML, CSS, Python, Java, PHP, C#],
-  tools: [React, Django, Styled-Components, Symfony],
+  AI/ML: [Azure OpenAI, RAG, MCP Agents, Prompt Engineering]
+  Backend: [C#, .NET 6/7/8, EF Core, REST/gRPC]
+  Data: [SQL Server, PostgreSQL, Redis, MySQL, Postgre, Weaviate]
+  Frontend: [Vue.js, React.js, HTML5, CSS3, Javascript]
+  Other: [Git, Linux : [Debian,Ubuntu,Mint, Kali]]
 }
 ```
 
 <img src="https://user-images.githubusercontent.com/71952591/172893693-ba6d3dd9-7612-4050-816f-3a65c110b9b3.jpg" align='right' height="330" alt="imagen perfil (ilustración)"></img>
 
-#### I love using vanilla CSS
+#### CSS's personality
 
 ```CSS
 *{
@@ -26,6 +29,14 @@ body{
      1fr                  100px
 }
 ```
+
+## Currently
+
+- 🚀 Implantando **IA en procesos internos** en Food Expert (Azure OpenAI + RAG + MCP)  
+- 🛠️ Construyendo **CONVERSAI**, un SaaS creativo para atención y captación de clientes  
+- 📚 Cursando **Grado en Ingeniería Informática (UOC)**  
+
+---
 
 You can find me :earth_africa:
 - [Instagram](https://www.instagram.com/pabloroyfer/)
